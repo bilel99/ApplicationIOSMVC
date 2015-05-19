@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings de
+  Hexvix
+
+  Created by Peter Kühn on 21.01.13.
+  Copyright (c) 2013 Weilacher.net. All rights reserved.
+*/
+"BackToStart" = "Zurück zum Start";
+"NextImage" = "Nächstes Bild";
+"StartTheGame" = "Spiel starten";
+"BackToStart" = "Zurück zum Start";
+"PreviousImage" = "Voriges Bild";
+"PenSize" = "Stiftgröße";
+"RubberSize" = "Radierergröße";
+"StopSession" = "Runde abbrechen";
+"StartNewSession" = "Runde neu starten";
+"End" = "Fertig";
+"TumourLeft" = "Tumour übrig";
+"TumourRemoved" = "Tumour entfernt";
+"Score" = "Auswertung";
+"Complete" = "Auflösen";
+"HealthyTissueRemoved" = "Gesundes Gewebe entfernt";

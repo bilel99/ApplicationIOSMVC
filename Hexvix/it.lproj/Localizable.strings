@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings it
+  Hexvix
+
+  Created by Peter Kühn on 21.01.13.
+  Copyright (c) 2013 wmdb.de. All rights reserved.
+*/
+"BackToStart" = "Ritorna all’inizio";
+"NextImage" = "Immagine successiva";
+"StartTheGame" = "Inizia";
+"BackToStart" = "Ritorna all’inizio";
+"PreviousImage" = "Immagine precedente";
+"PenSize" = "Penna";
+"RubberSize" = "Gomma";
+"StopSession" = "Chiudi la sessione";
+"StartNewSession" = "Nuova sessione";
+"End" = "Fatto";
+"TumourLeft" = "Tumore residuo";
+"TumourRemoved" = "Tumore rimosso";
+"Score" = "Punteggio";
+"Complete" = "Visualizza";
+"HealthyTissueRemoved" = "Tessuto sano rimosso";
